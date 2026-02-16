@@ -3,18 +3,18 @@
     public class OrderProcessor
     {
         private OrderRepository _orderRepository;
-        private EmailService _emailService;
+        private NotificationService _notificationService;
 
-        public OrderProcessor(OrderRepository orderRepository, EmailService emailService)
+        public OrderProcessor(OrderRepository orderRepository, NotificationService notificationService)
         {
             _orderRepository = orderRepository;
-            _emailService = emailService;
+            _notificationService = notificationService;
         }
 
         public void ProcessOrder(string item)
         {
             _orderRepository.SaveToDb(item);
-            _emailService.SendEmail(item);
+            _notificationService.Send(item);
         }
     }
 }

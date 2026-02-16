@@ -4,7 +4,7 @@
     {
         public void SaveToDb(string order)
         {
-            Console.WriteLine("Збереження в базу даних.");
+            Console.WriteLine("Збереження замовлення в базу даних.");
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/t5vy2YfUqE=",
+  "dgSpecHash": "2PFYK4XH1hA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VICTUS\\Desktop\\engineering\\prac10\\pr10\\pr10.csproj",
+  "projectFilePath": "D:\\Documents\\SUICT\\3 курс\\2 семестр\\engineering\\prac10\\pr10\\pr10.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
   ],

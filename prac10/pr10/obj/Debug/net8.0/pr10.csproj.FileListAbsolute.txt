@@ -26,3 +26,18 @@ C:\Users\VICTUS\Desktop\engineering\prac10\pr10\bin\Debug\net8.0\pr10.dll
 C:\Users\VICTUS\Desktop\engineering\prac10\pr10\bin\Debug\net8.0\pr10.pdb
 C:\Users\VICTUS\Desktop\engineering\prac10\pr10\obj\Debug\net8.0\pr10.genruntimeconfig.cache
 C:\Users\VICTUS\Desktop\engineering\prac10\pr10\obj\Debug\net8.0\ref\pr10.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\bin\Debug\net8.0\pr10.exe
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\bin\Debug\net8.0\pr10.deps.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\bin\Debug\net8.0\pr10.runtimeconfig.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\bin\Debug\net8.0\pr10.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\bin\Debug\net8.0\pr10.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.AssemblyInfoInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.AssemblyInfo.cs
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.csproj.CoreCompileInputs.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.sourcelink.json
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\refint\pr10.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.pdb
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.genruntimeconfig.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\ref\pr10.dll

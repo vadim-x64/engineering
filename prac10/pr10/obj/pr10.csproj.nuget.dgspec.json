@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VICTUS\\Desktop\\engineering\\prac10\\pr10\\pr10.csproj": {}
+    "D:\\Documents\\SUICT\\3 курс\\2 семестр\\engineering\\prac10\\pr10\\pr10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VICTUS\\Desktop\\engineering\\prac10\\pr10\\pr10.csproj": {
+    "D:\\Documents\\SUICT\\3 курс\\2 семестр\\engineering\\prac10\\pr10\\pr10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VICTUS\\Desktop\\engineering\\prac10\\pr10\\pr10.csproj",
+        "projectUniqueName": "D:\\Documents\\SUICT\\3 курс\\2 семестр\\engineering\\prac10\\pr10\\pr10.csproj",
         "projectName": "pr10",
-        "projectPath": "C:\\Users\\VICTUS\\Desktop\\engineering\\prac10\\pr10\\pr10.csproj",
+        "projectPath": "D:\\Documents\\SUICT\\3 курс\\2 семестр\\engineering\\prac10\\pr10\\pr10.csproj",
         "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VICTUS\\Desktop\\engineering\\prac10\\pr10\\obj\\",
+        "outputPath": "D:\\Documents\\SUICT\\3 курс\\2 семестр\\engineering\\prac10\\pr10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

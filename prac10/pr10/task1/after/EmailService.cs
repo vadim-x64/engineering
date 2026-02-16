@@ -1,8 +1,8 @@
 ﻿namespace pr10.task1.after
 {
-    public class EmailService
+    public class EmailService : NotificationService
     {
-        public void SendEmail(string order)
+        public override void Send(string order)
         {
             Console.WriteLine("Відправлення листа підтвердження.");
         }
