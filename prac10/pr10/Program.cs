@@ -1,6 +1,7 @@
-﻿using System.Text;
+﻿using System;
+using System.Text;
 
-namespace pr10.task3
+namespace pr10.task4 
 {
     public class Program
     {
@@ -45,6 +46,22 @@ namespace pr10.task3
         //}
 
         // Task3 - Abstraction
+        //public static void Main(string[] args)
+        //{
+        //    Console.OutputEncoding = Encoding.UTF8;
+        //    Console.InputEncoding = Encoding.UTF8;
+
+        //    Vehicle myCar = new Car();
+        //    Vehicle myBike = new Bicycle();
+
+        //    myCar.Start();
+        //    myCar.Stop();
+
+        //    myBike.Start();
+        //    myBike.Stop();
+        //}
+
+        // Task 4 - Information Hiding
         public static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
@@ -54,10 +71,16 @@ namespace pr10.task3
             Vehicle myBike = new Bicycle();
 
             myCar.Start();
+            Console.WriteLine($"Швидкість авто: {myCar.Speed} км/год.");
             myCar.Stop();
+            Console.WriteLine($"Швидкість авто: {myCar.Speed} км/год.");
+
+            Console.WriteLine();
 
             myBike.Start();
+            Console.WriteLine($"Швидкість велосипеда: {myBike.Speed} км/год.");
             myBike.Stop();
+            Console.WriteLine($"Швидкість авто: {myBike.Speed} км/год.");
         }
     }
 }
