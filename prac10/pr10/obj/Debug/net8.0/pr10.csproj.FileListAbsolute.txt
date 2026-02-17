@@ -41,3 +41,9 @@ D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug
 D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.pdb
 D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.genruntimeconfig.cache
 D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\ref\pr10.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\bin\Debug\net8.0\xunit.abstractions.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\bin\Debug\net8.0\xunit.assert.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\bin\Debug\net8.0\xunit.core.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.csproj.AssemblyReference.cache
+D:\Documents\SUICT\3 курс\2 семестр\engineering\prac10\pr10\obj\Debug\net8.0\pr10.csproj.Up2Date

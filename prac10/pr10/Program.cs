@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Text;
+using Xunit;
 
-namespace pr10.task4 
+namespace pr10
 {
     public class Program
     {
@@ -62,25 +63,25 @@ namespace pr10.task4
         //}
 
         // Task 4 - Information Hiding
-        public static void Main(string[] args)
-        {
-            Console.OutputEncoding = Encoding.UTF8;
-            Console.InputEncoding = Encoding.UTF8;
+        //public static void Main(string[] args)
+        //{
+        //    Console.OutputEncoding = Encoding.UTF8;
+        //    Console.InputEncoding = Encoding.UTF8;
 
-            Vehicle myCar = new Car();
-            Vehicle myBike = new Bicycle();
+        //    Vehicle myCar = new Car();
+        //    Vehicle myBike = new Bicycle();
 
-            myCar.Start();
-            Console.WriteLine($"Швидкість авто: {myCar.Speed} км/год.");
-            myCar.Stop();
-            Console.WriteLine($"Швидкість авто: {myCar.Speed} км/год.");
+        //    myCar.Start();
+        //    Console.WriteLine($"Швидкість авто: {myCar.Speed} км/год.");
+        //    myCar.Stop();
+        //    Console.WriteLine($"Швидкість авто: {myCar.Speed} км/год.");
 
-            Console.WriteLine();
+        //    Console.WriteLine();
 
-            myBike.Start();
-            Console.WriteLine($"Швидкість велосипеда: {myBike.Speed} км/год.");
-            myBike.Stop();
-            Console.WriteLine($"Швидкість авто: {myBike.Speed} км/год.");
-        }
+        //    myBike.Start();
+        //    Console.WriteLine($"Швидкість велосипеда: {myBike.Speed} км/год.");
+        //    myBike.Stop();
+        //    Console.WriteLine($"Швидкість авто: {myBike.Speed} км/год.");
+        //}
     }
 }
